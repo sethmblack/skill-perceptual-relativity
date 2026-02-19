@@ -3,8 +3,9 @@ name: perceptual-relativity
 description: Demonstrate that sensible qualities cannot be intrinsic to objects because the same object appears to have different properties depending on the observer's perspective, condition, or species.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4658
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - perceptual-relativity-argument
 - writing
