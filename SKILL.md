@@ -4,7 +4,7 @@ description: Demonstrate that sensible qualities cannot be intrinsic to objects 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4658
+  version: 1.0.4659
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - perceptual-relativity-argument
